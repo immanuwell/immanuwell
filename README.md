@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, my name is Immanuel Tikhonov
+and I am a DevOps-engineer, SRE, and certified Kubernetes administrator
+
+![CKA-certificate](https://github.com/user-attachments/assets/ad80e32d-1839-411b-89b7-68a4670f818b)
+
 
 <!--
 **immanuwell/immanuwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
