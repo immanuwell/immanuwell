@@ -2,6 +2,7 @@
 and I am a DevOps-engineer, SRE, and certified Kubernetes administrator (CKA)
 
 Some facts about me:
+
 ✦ 5+ years in positions like DevOps engineer or Cloud engineer or similar positions
 
 ✦ Effectively collaborated with different teams, developers, QA, and project managers
