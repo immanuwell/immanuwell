@@ -29,7 +29,7 @@ Some facts about me:
 
 — MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
 
-▶ [And here is my resume](https://github.com/immanuwell/Resume/blob/main/Immanuel-Tikhonov-Resume.pdf)
+▶ [And here is my resume (CV)](https://github.com/immanuwell/Resume/blob/main/Immanuel-Tikhonov-Resume.pdf) ◀
 
 ![CKA-certificate](https://github.com/user-attachments/assets/ad80e32d-1839-411b-89b7-68a4670f818b)
 
