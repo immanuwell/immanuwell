@@ -33,6 +33,14 @@ Some facts about me:
 
 ![CKA-certificate](https://github.com/user-attachments/assets/ad80e32d-1839-411b-89b7-68a4670f818b)
 
+## And a few of my small, cute pet projects
+
+### dget - fast and powerful domain availability checker
+
+- github.com/immanuwell/dget
+
+<img width="1257" height="971" alt="image" src="https://github.com/user-attachments/assets/1a98ef08-6cbe-4b49-b613-19afc1dac5d0" />
+
 
 <!--
 **immanuwell/immanuwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
