@@ -37,7 +37,7 @@ Some facts about me:
 
 ### dget - fast and powerful domain availability checker
 
-- github.com/immanuwell/dget
+- [github.com/immanuwell/dget](https://github.com/immanuwell/dget)
 
 <img width="1257" height="971" alt="image" src="https://github.com/user-attachments/assets/1a98ef08-6cbe-4b49-b613-19afc1dac5d0" />
 
