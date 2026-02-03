@@ -1,5 +1,5 @@
 ## Hi, my name is Immanuel Tikhonov
-and I am a DevOps-engineer, SRE, and certified Kubernetes administrator (CKA)
+and I am a DevOps-engineer, SRE, and Kubernetes Certified: CKA, CKS
 
 Some facts about me:
 
