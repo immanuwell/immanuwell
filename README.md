@@ -33,7 +33,16 @@ Some facts about me:
 ▶ [And here is my resume (CV)](https://github.com/immanuwell/Resume/blob/main/Immanuel-Tikhonov-Resume.pdf) ◀
 -->
 
-![CKA-certificate](https://github.com/user-attachments/assets/ad80e32d-1839-411b-89b7-68a4670f818b)
+<img width="1824" height="867" alt="image" src="https://github.com/user-attachments/assets/6a24fbcb-a93f-4e29-94cb-9b5200a275db" />
+
+<details>
+  <summary>CKA and CKS certificates - originals</summary>
+  
+  <img width="1238" height="958" alt="image" src="https://github.com/user-attachments/assets/3477086c-ec4f-4abf-b615-733bd56deb2e" />
+
+  <img width="2475" height="1914" alt="image" src="https://github.com/user-attachments/assets/c23a41cb-e7a7-4263-bb63-1af526562d90" />
+
+</details>
 
 ## And a few of my small, cute pet projects
 
