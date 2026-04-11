@@ -48,7 +48,7 @@ Some facts about me:
 
 ## [More about me, Resume/CV, etc](https://immanuwell.github.io)
 
-▶ immanuwell.github.io
+▶ [immanuwell.github.io](https://immanuwell.github.io)
 
 ## And a few of my small, cute pet projects
 
