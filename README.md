@@ -33,12 +33,12 @@ Some facts about me:
 ▶ [And here is my resume (CV)](https://github.com/immanuwell/Resume/blob/main/Immanuel-Tikhonov-Resume.pdf) ◀
 -->
 
+### CKA & CKS
+
 <img width="1824" height="867" alt="image" src="https://github.com/user-attachments/assets/6a24fbcb-a93f-4e29-94cb-9b5200a275db" />
 
 <details>
   <summary>CKA and CKS certificates - originals</summary>
-
-  <h2>CKA & CKS</h2>
   
   <img width="1238" height="958" alt="image" src="https://github.com/user-attachments/assets/3477086c-ec4f-4abf-b615-733bd56deb2e" />
 
