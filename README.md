@@ -37,7 +37,7 @@ Some facts about me:
 
 <img width="1824" height="867" alt="image" src="https://github.com/user-attachments/assets/6a24fbcb-a93f-4e29-94cb-9b5200a275db" />
 
-<details>
+<details id="cka-cks">
   <summary>CKA and CKS certificates - originals</summary>
   
   <img width="1238" height="958" alt="image" src="https://github.com/user-attachments/assets/3477086c-ec4f-4abf-b615-733bd56deb2e" />
