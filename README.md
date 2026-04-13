@@ -52,9 +52,9 @@ Some facts about me:
 
 ## And a few of my small, cute pet projects
 
-### dget - fast and powerful domain availability checker
+### a dockerfile linter that actually has opinions 🔥 (written in Rust btw)
 
-- [github.com/immanuwell/dget](https://github.com/immanuwell/dget)
+- [github.com/immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast)
 
 <img width="1257" height="971" alt="image" src="https://github.com/user-attachments/assets/1a98ef08-6cbe-4b49-b613-19afc1dac5d0" />
 
