@@ -56,7 +56,7 @@ Some facts about me:
 
 - [github.com/immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast)
 
-<img width="1257" height="971" alt="image" src="https://github.com/user-attachments/assets/1a98ef08-6cbe-4b49-b613-19afc1dac5d0" />
+<img width="1800" height="862" alt="image" src="https://github.com/user-attachments/assets/e1739b57-5477-41b1-8f4e-193a54780482" />
 
 
 <!--
